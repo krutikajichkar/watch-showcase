@@ -1,0 +1,118 @@
+#amznlogo{
+    height: 100px;
+    width: 100px;
+   
+}
+h1{
+    font-family:Source Sans Pro;
+}
+
+h3{
+    font-family:Source Sans Pro;
+}
+
+header{
+    background-color: #232f23;
+    width: 100%;
+    height: 75px;
+    text-align: center;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+}
+
+#info{
+    margin-top: 51px;
+}
+
+#colors{
+    display: flex;
+    justify-content: left;
+}
+#black{
+    margin-left: 20px;
+    background-color: black;
+    height: 30px;
+    width: 45px;
+    border-radius: 3px;
+    cursor: pointer;
+
+}
+
+#red{
+    margin-left: 10px;
+    background-color: red;
+    height:30px;
+    width: 45px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#blue{
+    margin-left: 20px;
+    background-color:blueviolet;
+    height: 30px;
+    width: 45px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+#pink{
+    margin-left: 20px;
+    background-color:pink;
+    height: 30px;
+    width: 45px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+#timebtn{
+    background-color: darkgrey;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+
+#heartbtn{
+    margin-left: 10px;
+    background-color: darkgrey;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+#buybtn{
+    background-color: #ff9900;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 18px;
+    margin-top: 15px;
+    cursor: pointer;
+  }
+  
+  #time{
+      margin-top: -270px;
+      margin-left: 200px;
+      color: powderblue;
+      font-size: x-large;
+  }
+
+  #beat{
+      font-size: x-large;
+      margin-left: 226px;
+      
+  }
+
+  #heart{
+    
+    font-size: x-large;
+    margin-left: 226px;
+    margin-top: -0px;
+  
+  }
+
+
